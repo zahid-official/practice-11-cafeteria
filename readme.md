@@ -1,13 +1,13 @@
-# 🍵 Teahouse Landing Page
+ # 🍵 Cafeteria
 
-A visually stunning and elegant website for a modern tea house, designed to immerse visitors in the world of fine teas and tranquil experiences. This project delivers a responsive, user-friendly landing page that highlights the tea house’s offerings, ambiance, and community spirit. The design emphasizes warmth, sophistication, and a welcoming atmosphere for tea enthusiasts.
+A visually stunning and elegant website for a modern tea house, designed to immerse visitors in the world of fine teas and tranquil experiences. This project delivers a responsive, user-friendly landing page that highlights Cafeteria’s offerings, ambiance, and community spirit. The design emphasizes warmth, sophistication, and a welcoming atmosphere for tea enthusiasts.
 
 ---
 
 ## ✨ Key Features
 
 - **Captivating Visuals:** High-quality imagery and subtle design accents evoke the serenity and richness of the tea experience.
-- **Bold Messaging:** Prominent statements and taglines that communicate the tea house’s unique value and philosophy.
+- **Bold Messaging:** Prominent statements and taglines that communicate Cafeteria’s unique value and philosophy.
 - **Engaging Call-to-Action:** Strategically placed buttons and forms encourage newsletter sign-ups and event participation.
 - **Professional Polish:** Clean, modern aesthetics with harmonious color schemes and elegant typography.
 
@@ -46,7 +46,7 @@ A visually stunning and elegant website for a modern tea house, designed to imme
 ### 🏪 For Business Owners
 - **Professional Online Presence:** Establish credibility and attract new customers.
 - **Customer Engagement:** Build relationships through newsletters and event updates.
-- **Brand Storytelling:** Communicate the tea house’s values and personality.
+- **Brand Storytelling:** Communicate Cafeteria’s values and personality.
 - **Lead Generation:** Contact forms and social media integration for growth.
 
 ---
@@ -69,8 +69,8 @@ A visually stunning and elegant website for a modern tea house, designed to imme
 
 ## 🌟 Project Overview
 
-This tea house landing page exemplifies modern web development practices, blending aesthetic appeal with functional features. The project demonstrates expertise in responsive design, UI development, and performance optimization, all while maintaining a focus on usability and brand storytelling.Whether you’re a tea lover or a business owner, this website offers a welcoming digital space to explore, engage and connect.
+This Cafeteria landing page exemplifies modern web development practices, blending aesthetic appeal with functional features. The project demonstrates expertise in responsive design, UI development, and performance optimization, all while maintaining a focus on usability and brand storytelling. Whether you’re a tea lover or a business owner, this website offers a welcoming digital space to explore, engage and connect.
 
 ---
 
-*A showcase of modern web design and user experience for tea house businesses* 🍵✨
+*A showcase of modern web design and user experience for tea house
