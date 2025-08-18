@@ -73,4 +73,4 @@ This Cafeteria landing page exemplifies modern web development practices, blendi
 
 ---
 
-*A showcase of modern web design and user experience for tea house
+*A showcase of modern web design and user experience for cafeteria
