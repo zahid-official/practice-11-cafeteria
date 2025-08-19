@@ -1,6 +1,6 @@
  # 🍵 Cafeteria
 
-A visually stunning and elegant website for a modern tea house, designed to immerse visitors in the world of fine teas and tranquil experiences. This project delivers a responsive, user-friendly landing page that highlights Cafeteria’s offerings, ambiance, and community spirit. The design emphasizes warmth, sophistication, and a welcoming atmosphere for tea enthusiasts.
+A visually stunning and elegant website for a modern cafeteria, designed to immerse visitors in the world of fine teas, coffees and tranquil experiences. This project delivers a responsive, user-friendly landing page that highlights Cafeteria’s offerings, ambiance and community spirit. The design emphasizes warmth, sophistication and a welcoming atmosphere for enthusiasts.
 
 ---
 
@@ -72,5 +72,4 @@ A visually stunning and elegant website for a modern tea house, designed to imme
 This Cafeteria landing page exemplifies modern web development practices, blending aesthetic appeal with functional features. The project demonstrates expertise in responsive design, UI development, and performance optimization, all while maintaining a focus on usability and brand storytelling. Whether you’re a tea lover or a business owner, this website offers a welcoming digital space to explore, engage and connect.
 
 ---
-
-*A showcase of modern web design and user experience for cafeteria
+*A showcase of modern web design and user experience for cafeteria*
