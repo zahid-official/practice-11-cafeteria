@@ -1,6 +1,6 @@
  # 🍵 Cafeteria
 
-A visually stunning and elegant website for a modern cafeteria, designed to immerse visitors in the world of fine teas, coffees and tranquil experiences. This project delivers a responsive, user-friendly landing page that highlights Cafeteria’s offerings, ambiance and community spirit. The design emphasizes warmth, sophistication and a welcoming atmosphere for enthusiasts.
+A visually engaging and responsive landing page for a modern cafeteria, built to reflect the elegance of fine teas, artisanal coffees, and tranquil café experiences. This project emphasizes clean design, smooth user interaction, and a warm, sophisticated aesthetic.
 
 ---
 
